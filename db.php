@@ -45,7 +45,7 @@ if(empty($resulatos)){
     echo sprintf("<h1>%s</h1>", $producto["nombre"]);
     echo sprintf("<h4>%s</h4>", $producto["precio"]);
     echo sprintf("<h4>%s</h4>", date('d-M-Y h:i'), strtotime($producto["creado"]));
-    echo $producto["oferta"] == 1 ? "En oferta" : "No está en oferta";
+    echo $producto["oferta"] == 1 ? "En oferta" : "No está en oferta.";
     }
 }
     
