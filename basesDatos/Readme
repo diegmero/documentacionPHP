@@ -1,0 +1,36 @@
+BASES DE DATOS
+
+Son estructuras de datos organizadas se pueden utilizar relacionales con SGBD como Mysql - Oracledb - azure y otros más y las no relacionales normalmente se usan con Mongodb.
+
+- Productos
+- Usuarios
+- Archivos y más
+
+
+TIPOS DE DB
+
+No Estructurados SQL(Crear, Modificar, Eliminar)
+
+No estructurados NoSQL: para almacenar distintos tipos de datos de forma no estructurada y es flexible: Mongodb, Cassandra, Redis entre otros
+
+Db Dinamicas
+
+Db Estáticas
+
+Db Jerarquicas
+
+Db de Red
+
+Db Relacionales: mas utilizada para representar datos de forma dinamica
+
+Deductivas
+
+Multidimensionales
+
+
+
+SQL------------------
+
+Structured Query Lnaguaje : usado para db relacionales
+
+ 

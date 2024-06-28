@@ -49,9 +49,9 @@ input[type="reset"]:hover{
 }
 
 form{
-    width: 250px;
-    border: 1px solid #ebebeb;
-    padding: 15px;
+    width: 500px;
+    border: 1px solid #d9d9d9;
+    padding: 30px;
     border-radius: 5px;
 }
 
